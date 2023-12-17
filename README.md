@@ -1,0 +1,3 @@
+<h1>Game Perang Sederhana</h1>
+game ini adalah game klasik yang dulu pernah hadir didalam sebuah papan permainan yang sempat populer pada masanya yaitu gameboy, </br>
+game ini dibuat dengan menggunakan bahasa HTML dasar dan juga dengan diberikan sedikit sentuhan CSS dan JS sebagai fungsional nya , game ini hanya dapat berjalan di PC saja atau Laptop. tidak menutup kemungkinan untuk dapat dimainkan di HP hanya saja untuk kontroler nya harus menggunakan keyboard sehingga cukup rumit untuk memainkannya di HP, saya harap anda dapat mengembangkan game ini menjadi sebuah game yang dibangung di website dan dapat di mainkan di sebuah hp sehingga lebih luas lagi platform yang dapat memainkan game ini.
